@@ -1,4 +1,4 @@
-# test_tflite
+# object_detector_tflite
 
 A new Flutter project.
 
